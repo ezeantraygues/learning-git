@@ -22,12 +22,12 @@ git help <comandos>*
 
 #### Configura el usuario
 ```
-git config --global user.name <ezeantraygues>
+git config --global user.name ezeantraygues
 ```
 
 #### Configura el email
 ```
-git config --global user.email <ezeantraygues@gmail.com>
+git config --global user.email ezeantraygues@gmail.com
 ```
 
 #### Lista la configuración de git
